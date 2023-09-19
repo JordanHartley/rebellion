@@ -1,0 +1,21 @@
+# Simulations
+MAX_TICKS = 250
+
+# World
+WORLD_HEIGHT = 40
+WORLD_WIDTH = 40
+
+# Globals
+K = 2.3
+THRESHOLD = 0.1
+
+# Rebellion
+INITIAL_COP_DENSITY = 0.04
+INITIAL_AGENT_DENSITY = 0.7
+VISION = 7.0
+MOVEMENT = True
+GOVERNMENT_LEGITIMACY = 0.82
+MAX_JAIL_TERM = 30
+
+# Extensions of base model
+COMMUNICATION = False
